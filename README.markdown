@@ -1,5 +1,4 @@
-= Spoj challenges
+# Spoj challenges
 
-== Author
-
+## Author
 PotHix
