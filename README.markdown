@@ -1,0 +1,5 @@
+= Spoj challenges
+
+== Author
+
+PotHix
