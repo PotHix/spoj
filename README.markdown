@@ -1,4 +1,4 @@
-# Spoj challenges
+Spoj challenges
+===============
 
-## Author
-PotHix
+All spoj challenges done by me. :)
